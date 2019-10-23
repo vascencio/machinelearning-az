@@ -1,0 +1,5 @@
+En uso de multiples variables, para la regresion es necesario evaluar cuales son las variables que realmente son necesarias para una
+prediccion, entonces entra el tema de la trampa de variables ficcticias. 
+
+Y los modelos puede ser que no se pueda identificar cual es la variable que predominante. 
+
